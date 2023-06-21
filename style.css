@@ -1,0 +1,40 @@
+body{
+    background: Linear-gradient(to right, #E0FFFF, #DCDCDC, #E0FFFF);
+    }
+    .wrap{
+        width:30%; 
+        margin: auto;
+        color: white;
+        border-radius: 10px;
+        font-family: comic sans-ms;
+        background-color: 	#008B8B;
+    }
+    .container{
+        padding: 5px;
+        margin: 10%;
+    }
+    h1{
+    
+        text-align: center;
+    }
+    marquee{
+        font-size:15px;
+        color:greenyellow;
+        padding-top: 1px;
+    
+    }
+    table{
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    table td{
+        padding: 5px;
+    }
+    button{
+        width: 50px;
+        font-family: comic sans-ms;
+        height: 30px;
+        background-color: rgb(255, 127, 138);
+        border-radius: 7px;
+    }
+    
